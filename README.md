@@ -2,6 +2,11 @@
 
 Este projeto implementa um servidor web em um ESP32 que permite controlar o LED embutido da placa através de uma interface web responsiva.
 
+<p align="center">
+  <img src="src/web.png" height="260" width="400" alt="Screenshot da interface web do projeto">
+  <img src="src/mobile.png" height="350" width="200" alt="Screenshot da interface web do projeto"> 
+</p>
+
 ## Funcionalidades
 
 - Interface web responsiva usando Tailwind CSS
