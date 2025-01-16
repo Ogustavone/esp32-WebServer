@@ -1,6 +1,6 @@
-// #include <Arduino.h>
-// #include <WiFi.h>
-// #include <WebServer.h>
+#include <Arduino.h>
+#include <WiFi.h>
+#include <WebServer.h>
 
 const char* ssid = "nome da rede";
 const char* password = "senha da rede";
